@@ -16,7 +16,7 @@ namespace ExceciciosC_ {
             nome = "Maria Silva";
             sexo = 'F';
 
-            Console.WriteLine("A funcionaria" + nome);
+            Console.WriteLine("A funcionaria " + nome + " Tem o salario de R$" + salario + " e tem a idade de " + idade);
 
 
 
